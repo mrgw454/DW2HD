@@ -1,0 +1,256 @@
+1,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/64 column (Coco 3)/Zork II (Infocom) (64 column) (Coco 3)/ZORK_II.DSK","Zork II (Infocom) (64 column) (Coco 3)","ZORK_II.DSK","ZORK_II",161280
+2,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/64 column (Coco 3)/Zork I (Infocom) (64 column) (Coco 3)/ZORK_I.DSK","Zork I (Infocom) (64 column) (Coco 3)","ZORK_I.DSK","ZORK_I",161280
+3,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/BALLYHOO.DSK","All Infocom Adventures","BALLYHOO.DSK","BALLYHOO",161280
+4,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/CUTHROTS.DSK","All Infocom Adventures","CUTHROTS.DSK","CUTHROTS",161280
+5,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/DEADLINE.DSK","All Infocom Adventures","DEADLINE.DSK","DEADLINE",161280
+6,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/ENCHANTR.DSK","All Infocom Adventures","ENCHANTR.DSK","ENCHANTR",161280
+7,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/HEARTS.DSK","All Infocom Adventures","HEARTS.DSK","HEARTS",161280
+8,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/HOLLYWD.DSK","All Infocom Adventures","HOLLYWD.DSK","HOLLYWD",161280
+9,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/HTCHHKER.DSK","All Infocom Adventures","HTCHHKER.DSK","HTCHHKER",161280
+10,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/INFIDEL.DSK","All Infocom Adventures","INFIDEL.DSK","INFIDEL",161280
+11,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/LEATHER.DSK","All Infocom Adventures","LEATHER.DSK","LEATHER",161280
+12,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/LURKINGH.DSK","All Infocom Adventures","LURKINGH.DSK","LURKINGH",161280
+13,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/MINIZORK.DSK","All Infocom Adventures","MINIZORK.DSK","MINIZORK",161280
+14,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/MOONMIST.DSK","All Infocom Adventures","MOONMIST.DSK","MOONMIST",161280
+15,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/PLANETFL.DSK","All Infocom Adventures","PLANETFL.DSK","PLANETFL",161280
+16,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/SEASTALK.DSK","All Infocom Adventures","SEASTALK.DSK","SEASTALK",161280
+17,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/SORCERER.DSK","All Infocom Adventures","SORCERER.DSK","SORCERER",161280
+18,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/SPELLBRK.DSK","All Infocom Adventures","SPELLBRK.DSK","SPELLBRK",161280
+19,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/STARCRSS.DSK","All Infocom Adventures","STARCRSS.DSK","STARCRSS",161280
+20,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/STATIONF.DSK","All Infocom Adventures","STATIONF.DSK","STATIONF",161280
+21,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/SUSPECT.DSK","All Infocom Adventures","SUSPECT.DSK","SUSPECT",161280
+22,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/SUSPEND.DSK","All Infocom Adventures","SUSPEND.DSK","SUSPEND",161280
+23,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/WISHBRNG.DSK","All Infocom Adventures","WISHBRNG.DSK","WISHBRNG",161280
+24,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/WITNESS.DSK","All Infocom Adventures","WITNESS.DSK","WITNESS",161280
+25,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/ZORK_I.DSK","All Infocom Adventures","ZORK_I.DSK","ZORK_I",161280
+26,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/ZORK_II.DSK","All Infocom Adventures","ZORK_II.DSK","ZORK_II",161280
+27,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/All Infocom Adventures/ZORK_III.DSK","All Infocom Adventures","ZORK_III.DSK","ZORK_III",161280
+28,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Ballyhoo (Infocom)/BALLYHOO.DSK","Ballyhoo (Infocom)","BALLYHOO.DSK","BALLYHOO",161280
+29,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Cutthroats (Infocom)/CUTHROTS.DSK","Cutthroats (Infocom)","CUTHROTS.DSK","CUTHROTS",161280
+30,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Deadline (Infocom)/DEADLINE.DSK","Deadline (Infocom)","DEADLINE.DSK","DEADLINE",161280
+31,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Enchanter, The (Infocom)/enchanter.dsk","Enchanter, The (Infocom)","enchanter.dsk","enchanter",161280
+32,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Hitchhiker's Guide to the Galaxy (Infocom)/HTCHHKER.DSK","Hitchhiker's Guide to the Galaxy (Infocom)","HTCHHKER.DSK","HTCHHKER",161280
+33,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Hollywood Hijinx (Infocom)/HOLLYWD.DSK","Hollywood Hijinx (Infocom)","HOLLYWD.DSK","HOLLYWD",161280
+34,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Infidel (Infocom)/INFIDEL.DSK","Infidel (Infocom)","INFIDEL.DSK","INFIDEL",161280
+35,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Leather Goddesses of Phobos (Infocom)/LEATHER.DSK","Leather Goddesses of Phobos (Infocom)","LEATHER.DSK","LEATHER",161280
+36,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Lurking Horror, The (Infocom)/LURKINGH.DSK","Lurking Horror, The (Infocom)","LURKINGH.DSK","LURKINGH",161280
+37,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Mini-ZORK (Infocom)/MINIZORK.DSK","Mini-ZORK (Infocom)","MINIZORK.DSK","MINIZORK",161280
+38,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Moonmist (Infocom)/MOONMIST.DSK","Moonmist (Infocom)","MOONMIST.DSK","MOONMIST",161280
+39,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Planetfall (Infocom)/PlanetFall.dsk","Planetfall (Infocom)","PlanetFall.dsk","PlanetFall",161280
+40,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Plundered Hearts (Infocom)/HEARTS.DSK","Plundered Hearts (Infocom)","HEARTS.DSK","HEARTS",161280
+41,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Sorcerer (Infocom)/SORCERER.DSK","Sorcerer (Infocom)","SORCERER.DSK","SORCERER",161280
+42,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Spellbreaker (Infocom)/SPELLBRK.DSK","Spellbreaker (Infocom)","SPELLBRK.DSK","SPELLBRK",161280
+43,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/StarCross (Infocom)/STARCRSS.DSK","StarCross (Infocom)","STARCRSS.DSK","STARCRSS",161280
+44,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Stationfall (Infocom)/STATIONF.DSK","Stationfall (Infocom)","STATIONF.DSK","STATIONF",161280
+45,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Suspect (Infocom)/SUSPECT.DSK","Suspect (Infocom)","SUSPECT.DSK","SUSPECT",161280
+46,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Suspended (Infocom)/SUSPEND.DSK","Suspended (Infocom)","SUSPEND.DSK","SUSPEND",161280
+47,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Wishbringer (Infocom)/WISHBRNG.DSK","Wishbringer (Infocom)","WISHBRNG.DSK","WISHBRNG",161280
+48,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Witness, The (Infocom)/WITNESS.DSK","Witness, The (Infocom)","WITNESS.DSK","WITNESS",161280
+49,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Zork III (Infocom)/ZORK_III.DSK","Zork III (Infocom)","ZORK_III.DSK","ZORK_III",161280
+50,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Zork II (Infocom)/ZORK_II.DSK","Zork II (Infocom)","ZORK_II.DSK","ZORK_II",161280
+51,"/media/share1/DW4/DW2SD/CCA/Games/Infocom Adventures/Zork I (Infocom)/ZORK_I.DSK","Zork I (Infocom)","ZORK_I.DSK","ZORK_I",161280
+52,"/media/share1/DW4/DW2SD/CCA/Games/In Quest of the Starlord (Sundog Systems) (Coco 3)/STARLRD1.DSK","In Quest of the Starlord (Sundog Systems) (Coco 3)","STARLRD1.DSK","STARLRD1",161280
+53,"/media/share1/DW4/DW2SD/CCA/Games/In Quest of the Starlord (Sundog Systems) (Coco 3)/STARLRD2.DSK","In Quest of the Starlord (Sundog Systems) (Coco 3)","STARLRD2.DSK","STARLRD2",161280
+54,"/media/share1/DW4/DW2SD/CCA/Games/In Quest of the Starlord (Sundog Systems) (Coco 3)/STARLRD3.DSK","In Quest of the Starlord (Sundog Systems) (Coco 3)","STARLRD3.DSK","STARLRD3",161280
+55,"/media/share1/DW4/DW2SD/CCA/Games/In Quest of the Starlord (Sundog Systems) (Coco 3)/STARLRD4.DSK","In Quest of the Starlord (Sundog Systems) (Coco 3)","STARLRD4.DSK","STARLRD4",161280
+56,"/media/share1/DW4/DW2SD/CCA/Games/Inspector Clueseau (Petrocci Freelance Associates)/cluseau.dsk","Inspector Clueseau (Petrocci Freelance Associates)","cluseau.dsk","cluseau",161280
+57,"/media/share1/DW4/DW2SD/CCA/Games/Interbank Incident, The (Tandy)/IBANK0.dsk","Interbank Incident, The (Tandy)","IBANK0.dsk","IBANK0",161280
+58,"/media/share1/DW4/DW2SD/CCA/Games/Interbank Incident, The (Tandy)/IBANK1.dsk","Interbank Incident, The (Tandy)","IBANK1.dsk","IBANK1",161280
+59,"/media/share1/DW4/DW2SD/CCA/Games/Interbank Incident, The (Tandy)/IBANK2.dsk","Interbank Incident, The (Tandy)","IBANK2.dsk","IBANK2",161280
+60,"/media/share1/DW4/DW2SD/CCA/Games/Intercept 4 (Computer Shack-Michtron)/INTERC4.DSK","Intercept 4 (Computer Shack-Michtron)","INTERC4.DSK","INTERC4",161280
+61,"/media/share1/DW4/DW2SD/CCA/Games/Interplanetary Trash Collector (The Rainbow) (Coco 3)/trash.dsk","Interplanetary Trash Collector (The Rainbow) (Coco 3)","trash.dsk","trash",161280
+62,"/media/share1/DW4/DW2SD/CCA/Games/Interplanetary Trash Collector (The Rainbow)/trash.dsk","Interplanetary Trash Collector (The Rainbow)","trash.dsk","trash",161280
+63,"/media/share1/DW4/DW2SD/CCA/Games/Interstellar Trader (Owlware)/Stellar.dsk","Interstellar Trader (Owlware)","Stellar.dsk","Stellar",161280
+64,"/media/share1/DW4/DW2SD/CCA/Games/Intersteller Themonuclear War (Coco 3)/ITW.DSK","Intersteller Themonuclear War (Coco 3)","ITW.DSK","ITW",161280
+65,"/media/share1/DW4/DW2SD/CCA/Games/Invaders09 (Sub-Etha Software)/INVADE09.DSK","Invaders09 (Sub-Etha Software)","INVADE09.DSK","INVADE09",161280
+66,"/media/share1/DW4/DW2SD/CCA/Games/Invader's Revenge (Med Systems-Screenplay)/INVREV.DSK","Invader's Revenge (Med Systems-Screenplay)","INVREV.DSK","INVREV",161280
+67,"/media/share1/DW4/DW2SD/CCA/Games/Invasion (Creative Computing Software)/INVASION.DSK","Invasion (Creative Computing Software)","INVASION.DSK","INVASION",161280
+68,"/media/share1/DW4/DW2SD/CCA/Games/Iron Cross (Computerware)/ironcros.dsk","Iron Cross (Computerware)","ironcros.dsk","ironcros",161280
+69,"/media/share1/DW4/DW2SD/CCA/Games/Island Adventure (Stephen B. Boothby)/Island Adventure Disk 1.dsk","Island Adventure (Stephen B. Boothby)","Island Adventure Disk 1.dsk","Island Adventure Disk 1",161280
+70,"/media/share1/DW4/DW2SD/CCA/Games/Island Adventure (Stephen B. Boothby)/Island Adventure Disk 2.dsk","Island Adventure (Stephen B. Boothby)","Island Adventure Disk 2.dsk","Island Adventure Disk 2",161280
+71,"/media/share1/DW4/DW2SD/CCA/Games/Island of Dead (Joe Semenik)/ISLAND.DSK","Island of Dead (Joe Semenik)","ISLAND.DSK","ISLAND",161280
+72,"/media/share1/DW4/DW2SD/CCA/Games/Jackpot Poker (Jack & Pegi Tindle)/JACKPOT.DSK","Jackpot Poker (Jack & Pegi Tindle)","JACKPOT.DSK","JACKPOT",161280
+73,"/media/share1/DW4/DW2SD/CCA/Games/Jaws (Michael Freeman)/JAWS.DSK","Jaws (Michael Freeman)","JAWS.DSK","JAWS",161280
+74,"/media/share1/DW4/DW2SD/CCA/Games/Jeopardy (T&D Software)/jeopardy.dsk","Jeopardy (T&D Software)","jeopardy.dsk","jeopardy",161280
+75,"/media/share1/DW4/DW2SD/CCA/Games/Jetpack Challenge (The Rainbow)/JETPACK.DSK","Jetpack Challenge (The Rainbow)","JETPACK.DSK","JETPACK",161280
+76,"/media/share1/DW4/DW2SD/CCA/Games/Jetset Willy (Software Projects) (Coco port)/JETSET.DSK","Jetset Willy (Software Projects) (Coco port)","JETSET.DSK","JETSET",161280
+77,"/media/share1/DW4/DW2SD/CCA/Games/Jeweled! (Roger Taylor) (Coco 3)/jeweled_demo.dsk","Jeweled! (Roger Taylor) (Coco 3)","jeweled_demo.dsk","jeweled_demo",161280
+78,"/media/share1/DW4/DW2SD/CCA/Games/Jeweled! (Roger Taylor) (Coco 3)/jeweled.dsk","Jeweled! (Roger Taylor) (Coco 3)","jeweled.dsk","jeweled",161280
+79,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JG4K.dsk","Jim Gerrie's Games Collection","JG4K.dsk","JG4K",161280
+80,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES10.DSK","Jim Gerrie's Games Collection","JGGAMES10.DSK","JGGAMES10",161280
+81,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES11.DSK","Jim Gerrie's Games Collection","JGGAMES11.DSK","JGGAMES11",161280
+82,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES12.DSK","Jim Gerrie's Games Collection","JGGAMES12.DSK","JGGAMES12",161280
+83,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES1.DSK","Jim Gerrie's Games Collection","JGGAMES1.DSK","JGGAMES1",161280
+84,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES2.DSK","Jim Gerrie's Games Collection","JGGAMES2.DSK","JGGAMES2",161280
+85,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES3.DSK","Jim Gerrie's Games Collection","JGGAMES3.DSK","JGGAMES3",161280
+86,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES4.DSK","Jim Gerrie's Games Collection","JGGAMES4.DSK","JGGAMES4",161280
+87,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES5.DSK","Jim Gerrie's Games Collection","JGGAMES5.DSK","JGGAMES5",161280
+88,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES6.DSK","Jim Gerrie's Games Collection","JGGAMES6.DSK","JGGAMES6",161280
+89,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES7.DSK","Jim Gerrie's Games Collection","JGGAMES7.DSK","JGGAMES7",161280
+90,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES8.DSK","Jim Gerrie's Games Collection","JGGAMES8.DSK","JGGAMES8",161280
+91,"/media/share1/DW4/DW2SD/CCA/Games/Jim Gerrie's Games Collection/JGGAMES9.DSK","Jim Gerrie's Games Collection","JGGAMES9.DSK","JGGAMES9",161280
+92,"/media/share1/DW4/DW2SD/CCA/Games/J-Master Games (Joel Mathew Hegberg)/J-MASTER.DSK","J-Master Games (Joel Mathew Hegberg)","J-MASTER.DSK","J-MASTER",161280
+93,"/media/share1/DW4/DW2SD/CCA/Games/Joker Poker (Coco 3) (The Rainbow)/JOKERPKR.DSK","Joker Poker (Coco 3) (The Rainbow)","JOKERPKR.DSK","JOKERPKR",161280
+94,"/media/share1/DW4/DW2SD/CCA/Games/Journey to Mt. Doom (Tom Mix Software)/MTDOOM.DSK","Journey to Mt. Doom (Tom Mix Software)","MTDOOM.DSK","MTDOOM",161280
+95,"/media/share1/DW4/DW2SD/CCA/Games/Jubilex (GSW Software) (Coco 3)/jubilex.dsk","Jubilex (GSW Software) (Coco 3)","jubilex.dsk","jubilex",161280
+96,"/media/share1/DW4/DW2SD/CCA/Games/Jungle Queen (Zoso Software)/JUNGLE.DSK","Jungle Queen (Zoso Software)","JUNGLE.DSK","JUNGLE",161280
+97,"/media/share1/DW4/DW2SD/CCA/Games/Jungle (T&D Software)/jungle.dsk","Jungle (T&D Software)","jungle.dsk","jungle",161280
+98,"/media/share1/DW4/DW2SD/CCA/Games/Junior's Revenge (Computerware)/JUNIOR.DSK","Junior's Revenge (Computerware)","JUNIOR.DSK","JUNIOR",161280
+99,"/media/share1/DW4/DW2SD/CCA/Games/Junk Food (The Rainbow) (SG-24) (Coco 1-2)/JUNKFOOD.DSK","Junk Food (The Rainbow) (SG-24) (Coco 1-2)","JUNKFOOD.DSK","JUNKFOOD",161280
+100,"/media/share1/DW4/DW2SD/CCA/Games/Juno (Federal Hill)/JUNO.DSK","Juno (Federal Hill)","JUNO.DSK","JUNO",161280
+101,"/media/share1/DW4/DW2SD/CCA/Games/Jupiter Patrol (Aardvark-80)/JUPATROL.DSK","Jupiter Patrol (Aardvark-80)","JUPATROL.DSK","JUPATROL",161280
+102,"/media/share1/DW4/DW2SD/CCA/Games/Juxtaposition (Wintersoft) (Coco port)/JUXTA.DSK","Juxtaposition (Wintersoft) (Coco port)","JUXTA.DSK","JUXTA",161280
+103,"/media/share1/DW4/DW2SD/CCA/Games/Kamikaze (Ark Royal Games)/K-32.DSK","Kamikaze (Ark Royal Games)","K-32.DSK","K-32",161280
+104,"/media/share1/DW4/DW2SD/CCA/Games/Karate (Diecom Products)/KARATE.DSK","Karate (Diecom Products)","KARATE.DSK","KARATE",161280
+105,"/media/share1/DW4/DW2SD/CCA/Games/Katerpillar Attack (Tom Mix Software)/KATERPIL.DSK","Katerpillar Attack (Tom Mix Software)","KATERPIL.DSK","KATERPIL",161280
+106,"/media/share1/DW4/DW2SD/CCA/Games/Kellycheckers III (Dracman) (Coco 3)/KELLYIII.DSK","Kellycheckers III (Dracman) (Coco 3)","KELLYIII.DSK","KELLYIII",161280
+107,"/media/share1/DW4/DW2SD/CCA/Games/Keys of the Wizard (Spectral Associates)/WIZARD.DSK","Keys of the Wizard (Spectral Associates)","WIZARD.DSK","WIZARD",161280
+108,"/media/share1/DW4/DW2SD/CCA/Games/Killer Mansion (T&D Software)/KILLERM.DSK","Killer Mansion (T&D Software)","KILLERM.DSK","KILLERM",161280
+109,"/media/share1/DW4/DW2SD/CCA/Games/King Carlo (H. Allen Curtis) (Coco 3)/KC.DSK","King Carlo (H. Allen Curtis) (Coco 3)","KC.DSK","KC",161280
+110,"/media/share1/DW4/DW2SD/CCA/Games/King Cuthbert (Microdeal)/KINGCUTH.DSK","King Cuthbert (Microdeal)","KINGCUTH.DSK","KINGCUTH",161280
+111,"/media/share1/DW4/DW2SD/CCA/Games/Kingdom of Bashan (Owls Nest Software)/BASHAN.DSK","Kingdom of Bashan (Owls Nest Software)","BASHAN.DSK","BASHAN",161280
+112,"/media/share1/DW4/DW2SD/CCA/Games/Kingpede (T&D Software)/KINGPEDE.DSK","Kingpede (T&D Software)","KINGPEDE.DSK","KINGPEDE",161280
+113,"/media/share1/DW4/DW2SD/CCA/Games/King, The (Tom Mix Software)/theking.dsk","King, The (Tom Mix Software)","theking.dsk","theking",161280
+114,"/media/share1/DW4/DW2SD/CCA/Games/King Tut (DSL Computer Products)/KINGTUT.DSK","King Tut (DSL Computer Products)","KINGTUT.DSK","KINGTUT",161280
+115,"/media/share1/DW4/DW2SD/CCA/Games/King Tut (Tandy)/KINGTUT.DSK","King Tut (Tandy)","KINGTUT.DSK","KINGTUT",161280
+116,"/media/share1/DW4/DW2SD/CCA/Games/Klendathu (Tandy)/KLENDATH.DSK","Klendathu (Tandy)","KLENDATH.DSK","KLENDATH",161280
+117,"/media/share1/DW4/DW2SD/CCA/Games/Knock Out (Diecom Products)/knockout.dsk","Knock Out (Diecom Products)","knockout.dsk","knockout",161280
+118,"/media/share1/DW4/DW2SD/CCA/Games/Komet Kaze (Thomas Czarnecki)/KOMET.DSK","Komet Kaze (Thomas Czarnecki)","KOMET.DSK","KOMET",161280
+119,"/media/share1/DW4/DW2SD/CCA/Games/Kron (Oregon Color Computer Systems)/KRON.DSK","Kron (Oregon Color Computer Systems)","KRON.DSK","KRON",161280
+120,"/media/share1/DW4/DW2SD/CCA/Games/Kung-Fu Dude (Sundog Systems)/KUNGFU.DSK","Kung-Fu Dude (Sundog Systems)","KUNGFU.DSK","KUNGFU",161280
+121,"/media/share1/DW4/DW2SD/CCA/Games/Kyum-Gai - To Be Ninja (Sundog Systems) (RS-DOS) (Coco 3)/KYUMGAI1.DSK","Kyum-Gai - To Be Ninja (Sundog Systems) (RS-DOS) (Coco 3)","KYUMGAI1.DSK","KYUMGAI1",161280
+122,"/media/share1/DW4/DW2SD/CCA/Games/Kyum-Gai - To Be Ninja (Sundog Systems) (RS-DOS) (Coco 3)/KYUMGAI2.DSK","Kyum-Gai - To Be Ninja (Sundog Systems) (RS-DOS) (Coco 3)","KYUMGAI2.DSK","KYUMGAI2",161280
+123,"/media/share1/DW4/DW2SD/CCA/Games/La Belle Lucie (Eversoft Games) (Coco 3)/lucy.dsk","La Belle Lucie (Eversoft Games) (Coco 3)","lucy.dsk","lucy",161280
+124,"/media/share1/DW4/DW2SD/CCA/Games/Labyrinth (Aardvark-80)/LABYRINT.DSK","Labyrinth (Aardvark-80)","LABYRINT.DSK","LABYRINT",161280
+125,"/media/share1/DW4/DW2SD/CCA/Games/Labyrinth Master (T&D Software)/LABMAS.DSK","Labyrinth Master (T&D Software)","LABMAS.DSK","LABMAS",161280
+126,"/media/share1/DW4/DW2SD/CCA/Games/Lady Buggy (David Crandall)/LADYBUG.DSK","Lady Buggy (David Crandall)","LADYBUG.DSK","LADYBUG",161280
+127,"/media/share1/DW4/DW2SD/CCA/Games/Lair of the Kraken, The (Beth Ann Norman)/KRAKEN.DSK","Lair of the Kraken, The (Beth Ann Norman)","KRAKEN.DSK","KRAKEN",161280
+128,"/media/share1/DW4/DW2SD/CCA/Games/Lair, The (Freebooter Software)/THELAIR.DSK","Lair, The (Freebooter Software)","THELAIR.DSK","THELAIR",161280
+129,"/media/share1/DW4/DW2SD/CCA/Games/Lancer (Spectral Associates)/LANCER.DSK","Lancer (Spectral Associates)","LANCER.DSK","LANCER",161280
+130,"/media/share1/DW4/DW2SD/CCA/Games/Lander (Duane D. Nelson)/LANDER.DSK","Lander (Duane D. Nelson)","LANDER.DSK","LANDER",161280
+131,"/media/share1/DW4/DW2SD/CCA/Games/Lander (T&D Software)/LANDER.DSK","Lander (T&D Software)","LANDER.DSK","LANDER",161280
+132,"/media/share1/DW4/DW2SD/CCA/Games/Lansford Mansion (Diecom Products)/MANSION1.DSK","Lansford Mansion (Diecom Products)","MANSION1.DSK","MANSION1",161280
+133,"/media/share1/DW4/DW2SD/CCA/Games/Lansford Mansion (Diecom Products)/MANSION2.DSK","Lansford Mansion (Diecom Products)","MANSION2.DSK","MANSION2",161280
+134,"/media/share1/DW4/DW2SD/CCA/Games/Laser Blast (Reynold Wells)/LASRBLST.DSK","Laser Blast (Reynold Wells)","LASRBLST.DSK","LASRBLST",161280
+135,"/media/share1/DW4/DW2SD/CCA/Games/Laser Tank Duel (Renaissance Game Designs)/TANKDUEL.DSK","Laser Tank Duel (Renaissance Game Designs)","TANKDUEL.DSK","TANKDUEL",161280
+136,"/media/share1/DW4/DW2SD/CCA/Games/Laserworm & Firefly (Electrosoft Inc.)/LASERWRM.DSK","Laserworm & Firefly (Electrosoft Inc.)","LASERWRM.DSK","LASERWRM",161280
+137,"/media/share1/DW4/DW2SD/CCA/Games/Last Pirate (Tandy)/PIRATE.DSK","Last Pirate (Tandy)","PIRATE.DSK","PIRATE",161280
+138,"/media/share1/DW4/DW2SD/CCA/Games/L-Berto (Phoenix)/LBERTO.DSK","L-Berto (Phoenix)","LBERTO.DSK","LBERTO",161280
+139,"/media/share1/DW4/DW2SD/CCA/Games/Legend Quest (D&N Software)/Legend Quest.dsk","Legend Quest (D&N Software)","Legend Quest.dsk","Legend Quest",161280
+140,"/media/share1/DW4/DW2SD/CCA/Games/Leggit (Visual Imagine Software Ltd) (Coco port)/LEGGIT.DSK","Leggit (Visual Imagine Software Ltd) (Coco port)","LEGGIT.DSK","LEGGIT",161280
+141,"/media/share1/DW4/DW2SD/CCA/Games/Le Mans (Spectral Associates)/LEMANS.DSK","Le Mans (Spectral Associates)","LEMANS.DSK","LEMANS",161280
+142,"/media/share1/DW4/DW2SD/CCA/Games/Liberty Ship (T&D Software)/LIBERTY.DSK","Liberty Ship (T&D Software)","LIBERTY.DSK","LIBERTY",161280
+143,"/media/share1/DW4/DW2SD/CCA/Games/Life (T&D Software)/LIFE.DSK","Life (T&D Software)","LIFE.DSK","LIFE",161280
+144,"/media/share1/DW4/DW2SD/CCA/Games/Life With Coco (Pat Pugliano)/COCOLIFE.DSK","Life With Coco (Pat Pugliano)","COCOLIFE.DSK","COCOLIFE",161280
+145,"/media/share1/DW4/DW2SD/CCA/Games/Little Runner (The Rainbow)/SMURF.DSK","Little Runner (The Rainbow)","SMURF.DSK","SMURF",161280
+146,"/media/share1/DW4/DW2SD/CCA/Games/Lode Runner Beta 4.1 (Mark McDougall)/lrcolour.dsk","Lode Runner Beta 4.1 (Mark McDougall)","lrcolour.dsk","lrcolour",161280
+147,"/media/share1/DW4/DW2SD/CCA/Games/Lode Runner Beta 4.1 (Mark McDougall)/lrmono.dsk","Lode Runner Beta 4.1 (Mark McDougall)","lrmono.dsk","lrmono",161280
+148,"/media/share1/DW4/DW2SD/CCA/Games/Lokar's Magic Staff (Real Software Company)/LOKAR.DSK","Lokar's Magic Staff (Real Software Company)","LOKAR.DSK","LOKAR",161280
+149,"/media/share1/DW4/DW2SD/CCA/Games/Loopy (T&D Software)/loopy.dsk","Loopy (T&D Software)","loopy.dsk","loopy",161280
+150,"/media/share1/DW4/DW2SD/CCA/Games/Lost City, USA (Software Unlimited)/LOSTCITY.DSK","Lost City, USA (Software Unlimited)","LOSTCITY.DSK","LOSTCITY",161280
+151,"/media/share1/DW4/DW2SD/CCA/Games/Lunar Lander (Public Domain)/LUNAR.DSK","Lunar Lander (Public Domain)","LUNAR.DSK","LUNAR",161280
+152,"/media/share1/DW4/DW2SD/CCA/Games/Lunar Lander (The Rainbow) (Coco 3)/LANDER.DSK","Lunar Lander (The Rainbow) (Coco 3)","LANDER.DSK","LANDER",161280
+153,"/media/share1/DW4/DW2SD/CCA/Games/Lunar-Rover Patrol (Spectral Associates)/ROVER.DSK","Lunar-Rover Patrol (Spectral Associates)","ROVER.DSK","ROVER",161280
+154,"/media/share1/DW4/DW2SD/CCA/Games/Lunattack (Hewson Consultants Ltd) (Coco port)/LUNATACK.DSK","Lunattack (Hewson Consultants Ltd) (Coco port)","LUNATACK.DSK","LUNATACK",161280
+155,"/media/share1/DW4/DW2SD/CCA/Games/Lunchtime (Tom Mix Software)/LUNCH.DSK","Lunchtime (Tom Mix Software)","LUNCH.DSK","LUNCH",161280
+156,"/media/share1/DW4/DW2SD/CCA/Games/Lurkley Manor (The Rainbow)/LURKLEY.DSK","Lurkley Manor (The Rainbow)","LURKLEY.DSK","LURKLEY",161280
+157,"/media/share1/DW4/DW2SD/CCA/Games/Madam Rosa's Massage Parlor (Softcore Software Company)/MADAM.DSK","Madam Rosa's Massage Parlor (Softcore Software Company)","MADAM.DSK","MADAM",161280
+158,"/media/share1/DW4/DW2SD/CCA/Games/Madness and the Minotaur (Tandy)/MINOTAUR.DSK","Madness and the Minotaur (Tandy)","MINOTAUR.DSK","MINOTAUR",161280
+159,"/media/share1/DW4/DW2SD/CCA/Games/Magic (Aftamonow & Bernico)/MAGIC.DSK","Magic (Aftamonow & Bernico)","MAGIC.DSK","MAGIC",161280
+160,"/media/share1/DW4/DW2SD/CCA/Games/Magic of Zanth, The (Computerware) (Coco 3)/Scene.dsk","Magic of Zanth, The (Computerware) (Coco 3)","Scene.dsk","Scene",161280
+161,"/media/share1/DW4/DW2SD/CCA/Games/Magic of Zanth, The (Computerware) (Coco 3)/Zanth.dsk","Magic of Zanth, The (Computerware) (Coco 3)","Zanth.dsk","Zanth",161280
+162,"/media/share1/DW4/DW2SD/CCA/Games/Magic Stones (Floyd Resler) (Coco 3)/STONES.DSK","Magic Stones (Floyd Resler) (Coco 3)","STONES.DSK","STONES",161280
+163,"/media/share1/DW4/DW2SD/CCA/Games/Major Istar (Computerware)/MISTAR.DSK","Major Istar (Computerware)","MISTAR.DSK","MISTAR",161280
+164,"/media/share1/DW4/DW2SD/CCA/Games/Manic Miner (Software Projects) (Coco port)/MANIC.DSK","Manic Miner (Software Projects) (Coco port)","MANIC.DSK","MANIC",161280
+165,"/media/share1/DW4/DW2SD/CCA/Games/Mansion Adventure (CLOAD)/MANSION.DSK","Mansion Adventure (CLOAD)","MANSION.DSK","MANSION",161280
+166,"/media/share1/DW4/DW2SD/CCA/Games/Marathon (Afabear Software)/MARATHON.DSK","Marathon (Afabear Software)","MARATHON.DSK","MARATHON",161280
+167,"/media/share1/DW4/DW2SD/CCA/Games/Marble Maze (Cheat) (Diecom Products)/MARBLE.DSK","Marble Maze (Cheat) (Diecom Products)","MARBLE.DSK","MARBLE",161280
+168,"/media/share1/DW4/DW2SD/CCA/Games/Marble Maze (Diecom Products) (6309 optimized)/MARBLE63.DSK","Marble Maze (Diecom Products) (6309 optimized)","MARBLE63.DSK","MARBLE63",161280
+169,"/media/share1/DW4/DW2SD/CCA/Games/Marble Maze (Diecom Products)/MARBLE.DSK","Marble Maze (Diecom Products)","MARBLE.DSK","MARBLE",161280
+170,"/media/share1/DW4/DW2SD/CCA/Games/Marooned (Saguaro Software)/MAROONED.DSK","Marooned (Saguaro Software)","MAROONED.DSK","MAROONED",161280
+171,"/media/share1/DW4/DW2SD/CCA/Games/Mars (Aardvark-80)/mars.dsk","Mars (Aardvark-80)","mars.dsk","mars",161280
+172,"/media/share1/DW4/DW2SD/CCA/Games/Martian Crypt, The (Tom Mix Software)/MARTIAN.DSK","Martian Crypt, The (Tom Mix Software)","MARTIAN.DSK","MARTIAN",161280
+173,"/media/share1/DW4/DW2SD/CCA/Games/Mary and the Bees (Roger Taylor) (Coco 3)/MARYATB.DSK","Mary and the Bees (Roger Taylor) (Coco 3)","MARYATB.DSK","MARYATB",161280
+174,"/media/share1/DW4/DW2SD/CCA/Games/Mary and the Butterflies Demo (Royer Taylor) (Coco 3)/marydemo.dsk","Mary and the Butterflies Demo (Royer Taylor) (Coco 3)","marydemo.dsk","marydemo",161280
+175,"/media/share1/DW4/DW2SD/CCA/Games/Master Blaster (Ken Kalish)/mblaster.dsk","Master Blaster (Ken Kalish)","mblaster.dsk","mblaster",161280
+176,"/media/share1/DW4/DW2SD/CCA/Games/Match Game of Opposites (The Rainbow)/MATCH.DSK","Match Game of Opposites (The Rainbow)","MATCH.DSK","MATCH",161280
+177,"/media/share1/DW4/DW2SD/CCA/Games/Maui Vice (Tom Mix Software)/MAUI.DSK","Maui Vice (Tom Mix Software)","MAUI.DSK","MAUI",161280
+178,"/media/share1/DW4/DW2SD/CCA/Games/Maximum (CLOAD)/MAXIMUM.DSK","Maximum (CLOAD)","MAXIMUM.DSK","MAXIMUM",161280
+179,"/media/share1/DW4/DW2SD/CCA/Games/Maze Escape (Spectral Associates)/escape.dsk","Maze Escape (Spectral Associates)","escape.dsk","escape",161280
+180,"/media/share1/DW4/DW2SD/CCA/Games/Maze Land (Chromasette)/MAZELAND.DSK","Maze Land (Chromasette)","MAZELAND.DSK","MAZELAND",161280
+181,"/media/share1/DW4/DW2SD/CCA/Games/Maze Master (Dough Tuttle) (Coco 3)/MMASTER.DSK","Maze Master (Dough Tuttle) (Coco 3)","MMASTER.DSK","MMASTER",161280
+182,"/media/share1/DW4/DW2SD/CCA/Games/Mazes, The (Infotop)/THEMAZES.DSK","Mazes, The (Infotop)","THEMAZES.DSK","THEMAZES",161280
+183,"/media/share1/DW4/DW2SD/CCA/Games/Maze, The (Colin North) (Coco 3)/CRYSTAL3.DSK","Maze, The (Colin North) (Coco 3)","CRYSTAL3.DSK","CRYSTAL3",161280
+184,"/media/share1/DW4/DW2SD/CCA/Games/McCheckers (Greg Miller & Erik Gavriluk)/MCCHECK.DSK","McCheckers (Greg Miller & Erik Gavriluk)","MCCHECK.DSK","MCCHECK",161280
+185,"/media/share1/DW4/DW2SD/CCA/Games/Megabug (Tandy)/MEGABUG.DSK","Megabug (Tandy)","MEGABUG.DSK","MEGABUG",161280
+186,"/media/share1/DW4/DW2SD/CCA/Games/Megamunk (Color Connection Software)/MEGAMUNK.DSK","Megamunk (Color Connection Software)","MEGAMUNK.DSK","MEGAMUNK",161280
+187,"/media/share1/DW4/DW2SD/CCA/Games/Megapede (Computerware)/MEGAPEDE.DSK","Megapede (Computerware)","MEGAPEDE.DSK","MEGAPEDE",161280
+188,"/media/share1/DW4/DW2SD/CCA/Games/Mega Shield (Winefred Washington Jr.)/MEGASHLD.DSK","Mega Shield (Winefred Washington Jr.)","MEGASHLD.DSK","MEGASHLD",161280
+189,"/media/share1/DW4/DW2SD/CCA/Games/Mega Tank (The Rainbow) (Coco 3)/MEGATANK.DSK","Mega Tank (The Rainbow) (Coco 3)","MEGATANK.DSK","MEGATANK",161280
+190,"/media/share1/DW4/DW2SD/CCA/Games/Mercenary Force (GOSUB International)/MERCFORC.DSK","Mercenary Force (GOSUB International)","MERCFORC.DSK","MERCFORC",161280
+191,"/media/share1/DW4/DW2SD/CCA/Games/Merchant to the Stars (Larry  M. Paroubek) (Coco 3)/STARMERC.DSK","Merchant to the Stars (Larry  M. Paroubek) (Coco 3)","STARMERC.DSK","STARMERC",161280
+192,"/media/share1/DW4/DW2SD/CCA/Games/Microbes (Tandy)/MICROBES.DSK","Microbes (Tandy)","MICROBES.DSK","MICROBES",161280
+193,"/media/share1/DW4/DW2SD/CCA/Games/Micro Chess (PMODE 4) (Tandy)/CHESSBW.DSK","Micro Chess (PMODE 4) (Tandy)","CHESSBW.DSK","CHESSBW",161280
+194,"/media/share1/DW4/DW2SD/CCA/Games/Micro Chess (Tandy)/CHESS.DSK","Micro Chess (Tandy)","CHESS.DSK","CHESS",161280
+195,"/media/share1/DW4/DW2SD/CCA/Games/Middle Kingdom (Computerware)/KINGDOM.DSK","Middle Kingdom (Computerware)","KINGDOM.DSK","KINGDOM",161280
+196,"/media/share1/DW4/DW2SD/CCA/Games/Midway Campaign (Avalon Hill)/Midway.dsk","Midway Campaign (Avalon Hill)","Midway.dsk","Midway",161280
+197,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER0.DSK","Mike Snyder's Games","MSNYDER0.DSK","MSNYDER0",161280
+198,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER1.DSK","Mike Snyder's Games","MSNYDER1.DSK","MSNYDER1",161280
+199,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER2.DSK","Mike Snyder's Games","MSNYDER2.DSK","MSNYDER2",161280
+200,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER3.DSK","Mike Snyder's Games","MSNYDER3.DSK","MSNYDER3",161280
+201,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER4.DSK","Mike Snyder's Games","MSNYDER4.DSK","MSNYDER4",161280
+202,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER5.DSK","Mike Snyder's Games","MSNYDER5.DSK","MSNYDER5",160256
+203,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER6.DSK","Mike Snyder's Games","MSNYDER6.DSK","MSNYDER6",159744
+204,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER7.DSK","Mike Snyder's Games","MSNYDER7.DSK","MSNYDER7",159232
+205,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER8.DSK","Mike Snyder's Games","MSNYDER8.DSK","MSNYDER8",161280
+206,"/media/share1/DW4/DW2SD/CCA/Games/Mike Snyder's Games/MSNYDER9.DSK","Mike Snyder's Games","MSNYDER9.DSK","MSNYDER9",161280
+207,"/media/share1/DW4/DW2SD/CCA/Games/Milenium the Last Outpost (Tabaxi Software) (Coco 3)/milenium.dsk","Milenium the Last Outpost (Tabaxi Software) (Coco 3)","milenium.dsk","milenium",161280
+208,"/media/share1/DW4/DW2SD/CCA/Games/Mindroll (Tandy) (Coco 1-2) (Coco 3)/Mindroll (alt).dsk","Mindroll (Tandy) (Coco 1-2) (Coco 3)","Mindroll (alt).dsk","Mindroll (alt)",161280
+209,"/media/share1/DW4/DW2SD/CCA/Games/Mindroll (Tandy) (Coco 1-2) (Coco 3)/MINDROLL.DSK","Mindroll (Tandy) (Coco 1-2) (Coco 3)","MINDROLL.DSK","MINDROLL",161280
+210,"/media/share1/DW4/DW2SD/CCA/Games/Mine Camp (Public Domain)/MINECAMP.DSK","Mine Camp (Public Domain)","MINECAMP.DSK","MINECAMP",161280
+211,"/media/share1/DW4/DW2SD/CCA/Games/Minecamp, the next mission (Diego Barizo) (Coco 3)/MINECMP2.DSK","Minecamp, the next mission (Diego Barizo) (Coco 3)","MINECMP2.DSK","MINECMP2",161280
+212,"/media/share1/DW4/DW2SD/CCA/Games/Mined Out (Quicksilva)/MINEDOUT.DSK","Mined Out (Quicksilva)","MINEDOUT.DSK","MINEDOUT",161280
+213,"/media/share1/DW4/DW2SD/CCA/Games/Minesweeper (Tim Franklin) (Coco 3)/SWEEP.DSK","Minesweeper (Tim Franklin) (Coco 3)","SWEEP.DSK","SWEEP",161280
+214,"/media/share1/DW4/DW2SD/CCA/Games/Minigolf 3 (T&D Software) (Coco 3)/MINIGOLF.DSK","Minigolf 3 (T&D Software) (Coco 3)","MINIGOLF.DSK","MINIGOLF",161280
+215,"/media/share1/DW4/DW2SD/CCA/Games/Mis-Adventures of Eddie, The (Novasoft)/eddie.dsk","Mis-Adventures of Eddie, The (Novasoft)","eddie.dsk","eddie",161280
+216,"/media/share1/DW4/DW2SD/CCA/Games/Miss Gobbler (Spectral Associates)/MGOBBLER.DSK","Miss Gobbler (Spectral Associates)","MGOBBLER.DSK","MGOBBLER",161280
+217,"/media/share1/DW4/DW2SD/CCA/Games/Mission Empire (Ark Royal Games)/empire.dsk","Mission Empire (Ark Royal Games)","empire.dsk","empire",161280
+218,"/media/share1/DW4/DW2SD/CCA/Games/Mission of Vengeance (Saguaro Software)/vengeanc.dsk","Mission of Vengeance (Saguaro Software)","vengeanc.dsk","vengeanc",161280
+219,"/media/share1/DW4/DW2SD/CCA/Games/Model Rocketry (David Matt)/ROCKETRY.DSK","Model Rocketry (David Matt)","ROCKETRY.DSK","ROCKETRY",161280
+220,"/media/share1/DW4/DW2SD/CCA/Games/Module Man (Spectral Associates)/MODULE.DSK","Module Man (Spectral Associates)","MODULE.DSK","MODULE",161280
+221,"/media/share1/DW4/DW2SD/CCA/Games/Moneyopoly (Tom Mix Software)/MONOPOLY.DSK","Moneyopoly (Tom Mix Software)","MONOPOLY.DSK","MONOPOLY",161280
+222,"/media/share1/DW4/DW2SD/CCA/Games/Monkey Kong (Med Systems-Screenplay)/MONKEYK.DSK","Monkey Kong (Med Systems-Screenplay)","MONKEYK.DSK","MONKEYK",161280
+223,"/media/share1/DW4/DW2SD/CCA/Games/Monster Maze (Tandy)/MMAZE.DSK","Monster Maze (Tandy)","MMAZE.DSK","MMAZE",161280
+224,"/media/share1/DW4/DW2SD/CCA/Games/Monsters & Magic (Prickly-Pear Software)/MONSTERS.DSK","Monsters & Magic (Prickly-Pear Software)","MONSTERS.DSK","MONSTERS",161280
+225,"/media/share1/DW4/DW2SD/CCA/Games/Montezumas Dungeons (T&D Software)/MONTEZUM.DSK","Montezumas Dungeons (T&D Software)","MONTEZUM.DSK","MONTEZUM",161280
+226,"/media/share1/DW4/DW2SD/CCA/Games/Moon 1 (Pat Abramovitch) (Coco 3)/MOON1.DSK","Moon 1 (Pat Abramovitch) (Coco 3)","MOON1.DSK","MOON1",161280
+227,"/media/share1/DW4/DW2SD/CCA/Games/Moon Cresta (Incentive Software) (Coco port)/CRESTA.DSK","Moon Cresta (Incentive Software) (Coco port)","CRESTA.DSK","CRESTA",161280
+228,"/media/share1/DW4/DW2SD/CCA/Games/Moon Flight (Paul Griffit)/MOONFL.DSK","Moon Flight (Paul Griffit)","MOONFL.DSK","MOONFL",161280
+229,"/media/share1/DW4/DW2SD/CCA/Games/Moonhopper (Computerware)/MOONHOP.DSK","Moonhopper (Computerware)","MOONHOP.DSK","MOONHOP",161280
+230,"/media/share1/DW4/DW2SD/CCA/Games/Moon Lander (Tom Mix Software)/MOONLAND.DSK","Moon Lander (Tom Mix Software)","MOONLAND.DSK","MOONLAND",161280
+231,"/media/share1/DW4/DW2SD/CCA/Games/Moon Shuttle (Datasoft)/MOONSHUT.DSK","Moon Shuttle (Datasoft)","MOONSHUT.DSK","MOONSHUT",161280
+232,"/media/share1/DW4/DW2SD/CCA/Games/Morocco GP (Computerware)/MOROCCO.DSK","Morocco GP (Computerware)","MOROCCO.DSK","MOROCCO",161280
+233,"/media/share1/DW4/DW2SD/CCA/Games/Motorcycle Jump (CLOAD)/motojump.dsk","Motorcycle Jump (CLOAD)","motojump.dsk","motojump",161280
+234,"/media/share1/DW4/DW2SD/CCA/Games/Mouse Maze (John Kowalski)/mousemaz.dsk","Mouse Maze (John Kowalski)","mousemaz.dsk","mousemaz",161280
+235,"/media/share1/DW4/DW2SD/CCA/Games/Mr. Dig (Computerware)/MRDIG.DSK","Mr. Dig (Computerware)","MRDIG.DSK","MRDIG",161280
+236,"/media/share1/DW4/DW2SD/CCA/Games/Mr. Munch (Chromasette)/MRMUNCH.DSK","Mr. Munch (Chromasette)","MRMUNCH.DSK","MRMUNCH",161280
+237,"/media/share1/DW4/DW2SD/CCA/Games/Mrs Pac (T&D Software)/MRSPAC.DSK","Mrs Pac (T&D Software)","MRSPAC.DSK","MRSPAC",161280
+238,"/media/share1/DW4/DW2SD/CCA/Games/Ms. Maze (Tom Mix Software)/MS-MAZE.DSK","Ms. Maze (Tom Mix Software)","MS-MAZE.DSK","MS-MAZE",161280
+239,"/media/share1/DW4/DW2SD/CCA/Games/Mudpies (Computer Shack-Michtron)/MUDPIES.DSK","Mudpies (Computer Shack-Michtron)","MUDPIES.DSK","MUDPIES",161280
+240,"/media/share1/DW4/DW2SD/CCA/Games/Multi-Bars Slot Machine (Tom Mix Software) (Coco 3)/MULTIBAR.DSK","Multi-Bars Slot Machine (Tom Mix Software) (Coco 3)","MULTIBAR.DSK","MULTIBAR",161280
+241,"/media/share1/DW4/DW2SD/CCA/Games/Munchman (T&D Software)/Munchman.dsk","Munchman (T&D Software)","Munchman.dsk","Munchman",161280
+242,"/media/share1/DW4/DW2SD/CCA/Games/Mystic Mansion/MysticM.dsk","Mystic Mansion","MysticM.dsk","MysticM",161280
+243,"/media/share1/DW4/DW2SD/CCA/Games/Nasa Pilot Training Program/NASA.DSK","Nasa Pilot Training Program","NASA.DSK","NASA",161280
+244,"/media/share1/DW4/DW2SD/CCA/Games/Naugus, The (Spectral Associates)/NAUGUS.DSK","Naugus, The (Spectral Associates)","NAUGUS.DSK","NAUGUS",161280
+245,"/media/share1/DW4/DW2SD/CCA/Games/Nerble Force (Computerware)/NERBLE.DSK","Nerble Force (Computerware)","NERBLE.DSK","NERBLE",161280
+246,"/media/share1/DW4/DW2SD/CCA/Games/Neutroid II (Nick Marentes) (SG-12) (Coco 1-2)/NEUTROID.DSK","Neutroid II (Nick Marentes) (SG-12) (Coco 1-2)","NEUTROID.DSK","NEUTROID",161280
+247,"/media/share1/DW4/DW2SD/CCA/Games/Nibbler (Nelson Software Systems)/NIBBLER.DSK","Nibbler (Nelson Software Systems)","NIBBLER.DSK","NIBBLER",161280
+248,"/media/share1/DW4/DW2SD/CCA/Games/Night of the Living Dead (Adventure Novel Software)/night1.dsk","Night of the Living Dead (Adventure Novel Software)","night1.dsk","night1",161280
+249,"/media/share1/DW4/DW2SD/CCA/Games/Night of the Living Dead (Adventure Novel Software)/night2.dsk","Night of the Living Dead (Adventure Novel Software)","night2.dsk","night2",161280
+250,"/media/share1/DW4/DW2SD/CCA/Games/Night of the Ninja (Jay Braxmaier)/NIGHT.DSK","Night of the Ninja (Jay Braxmaier)","NIGHT.DSK","NIGHT",161280
+251,"/media/share1/DW4/DW2SD/CCA/Games/Nine Card Choice (T&D Software)/NINECARD.DSK","Nine Card Choice (T&D Software)","NINECARD.DSK","NINECARD",161280
+252,"/media/share1/DW4/DW2SD/CCA/Games/Ninja Warrior (The Programmer's Guild)/NINJA.DSK","Ninja Warrior (The Programmer's Guild)","NINJA.DSK","NINJA",161280
+253,"/media/share1/DW4/DW2SD/CCA/Games/Noids (T&D Software)/noids.dsk","Noids (T&D Software)","noids.dsk","noids",161280
+254,"/media/share1/DW4/DW2SD/CCA/Games/Nort Chase (Alvin Kimball)/NORT.DSK","Nort Chase (Alvin Kimball)","NORT.DSK","NORT",161280
+255,"/media/share1/DW4/DW2SD/CCA/Games/Not Another Expressway Ripoff! v1.10 (Retro Rick)/NAER110.DSK","Not Another Expressway Ripoff! v1.10 (Retro Rick)","NAER110.DSK","NAER110",161280
+256,"/media/share1/DW4/DW2SD/CCA/Games/Nova Pinball (Bumblebee Software)/NOVA.DSK","Nova Pinball (Bumblebee Software)","NOVA.DSK","NOVA",161280

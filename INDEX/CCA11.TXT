@@ -1,0 +1,256 @@
+1,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-f02.dsk","Orchestra Songs Collection","orch-f02.dsk","orch-f02",161280
+2,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-f03.dsk","Orchestra Songs Collection","orch-f03.dsk","orch-f03",161280
+3,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-f04.dsk","Orchestra Songs Collection","orch-f04.dsk","orch-f04",161280
+4,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-g01.dsk","Orchestra Songs Collection","orch-g01.dsk","orch-g01",161280
+5,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-g02.dsk","Orchestra Songs Collection","orch-g02.dsk","orch-g02",161280
+6,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-g03.dsk","Orchestra Songs Collection","orch-g03.dsk","orch-g03",161280
+7,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-h01.dsk","Orchestra Songs Collection","orch-h01.dsk","orch-h01",161280
+8,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-h02.dsk","Orchestra Songs Collection","orch-h02.dsk","orch-h02",161280
+9,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-h03.dsk","Orchestra Songs Collection","orch-h03.dsk","orch-h03",161280
+10,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-h04.dsk","Orchestra Songs Collection","orch-h04.dsk","orch-h04",161280
+11,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-h05.dsk","Orchestra Songs Collection","orch-h05.dsk","orch-h05",161280
+12,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-h06.dsk","Orchestra Songs Collection","orch-h06.dsk","orch-h06",161280
+13,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-i01.dsk","Orchestra Songs Collection","orch-i01.dsk","orch-i01",161280
+14,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-i02.dsk","Orchestra Songs Collection","orch-i02.dsk","orch-i02",161280
+15,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-i03.dsk","Orchestra Songs Collection","orch-i03.dsk","orch-i03",161280
+16,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-j01.dsk","Orchestra Songs Collection","orch-j01.dsk","orch-j01",161280
+17,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-j02.dsk","Orchestra Songs Collection","orch-j02.dsk","orch-j02",161280
+18,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-k01.dsk","Orchestra Songs Collection","orch-k01.dsk","orch-k01",161280
+19,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-l01.dsk","Orchestra Songs Collection","orch-l01.dsk","orch-l01",161280
+20,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-l02.dsk","Orchestra Songs Collection","orch-l02.dsk","orch-l02",161280
+21,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-l03.dsk","Orchestra Songs Collection","orch-l03.dsk","orch-l03",161280
+22,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-m01.dsk","Orchestra Songs Collection","orch-m01.dsk","orch-m01",161280
+23,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-m02.dsk","Orchestra Songs Collection","orch-m02.dsk","orch-m02",161280
+24,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-m03.dsk","Orchestra Songs Collection","orch-m03.dsk","orch-m03",161280
+25,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-m04.dsk","Orchestra Songs Collection","orch-m04.dsk","orch-m04",161280
+26,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-m05.dsk","Orchestra Songs Collection","orch-m05.dsk","orch-m05",161280
+27,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-n01.dsk","Orchestra Songs Collection","orch-n01.dsk","orch-n01",161280
+28,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-n02.dsk","Orchestra Songs Collection","orch-n02.dsk","orch-n02",161280
+29,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-n03.dsk","Orchestra Songs Collection","orch-n03.dsk","orch-n03",161280
+30,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-o01.dsk","Orchestra Songs Collection","orch-o01.dsk","orch-o01",161280
+31,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-o02.dsk","Orchestra Songs Collection","orch-o02.dsk","orch-o02",161280
+32,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-o03.dsk","Orchestra Songs Collection","orch-o03.dsk","orch-o03",161280
+33,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-p01.dsk","Orchestra Songs Collection","orch-p01.dsk","orch-p01",161280
+34,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-p02.dsk","Orchestra Songs Collection","orch-p02.dsk","orch-p02",161280
+35,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-p03.dsk","Orchestra Songs Collection","orch-p03.dsk","orch-p03",161280
+36,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-p04.dsk","Orchestra Songs Collection","orch-p04.dsk","orch-p04",161280
+37,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-p05.dsk","Orchestra Songs Collection","orch-p05.dsk","orch-p05",161280
+38,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-q01.dsk","Orchestra Songs Collection","orch-q01.dsk","orch-q01",161280
+39,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-r01.dsk","Orchestra Songs Collection","orch-r01.dsk","orch-r01",161280
+40,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-r02.dsk","Orchestra Songs Collection","orch-r02.dsk","orch-r02",161280
+41,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-r03.dsk","Orchestra Songs Collection","orch-r03.dsk","orch-r03",161280
+42,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-r04.dsk","Orchestra Songs Collection","orch-r04.dsk","orch-r04",161280
+43,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s01.dsk","Orchestra Songs Collection","orch-s01.dsk","orch-s01",161280
+44,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s02.dsk","Orchestra Songs Collection","orch-s02.dsk","orch-s02",161280
+45,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s03.dsk","Orchestra Songs Collection","orch-s03.dsk","orch-s03",161280
+46,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s04.dsk","Orchestra Songs Collection","orch-s04.dsk","orch-s04",161280
+47,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s05.dsk","Orchestra Songs Collection","orch-s05.dsk","orch-s05",161280
+48,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s06.dsk","Orchestra Songs Collection","orch-s06.dsk","orch-s06",161280
+49,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s07.dsk","Orchestra Songs Collection","orch-s07.dsk","orch-s07",161280
+50,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s08.dsk","Orchestra Songs Collection","orch-s08.dsk","orch-s08",161280
+51,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s09.dsk","Orchestra Songs Collection","orch-s09.dsk","orch-s09",161280
+52,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s10.dsk","Orchestra Songs Collection","orch-s10.dsk","orch-s10",161280
+53,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-s11.dsk","Orchestra Songs Collection","orch-s11.dsk","orch-s11",161280
+54,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-t01.dsk","Orchestra Songs Collection","orch-t01.dsk","orch-t01",161280
+55,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-t02.dsk","Orchestra Songs Collection","orch-t02.dsk","orch-t02",161280
+56,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-t03.dsk","Orchestra Songs Collection","orch-t03.dsk","orch-t03",161280
+57,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-t04.dsk","Orchestra Songs Collection","orch-t04.dsk","orch-t04",161280
+58,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-t05.dsk","Orchestra Songs Collection","orch-t05.dsk","orch-t05",161280
+59,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-u01.dsk","Orchestra Songs Collection","orch-u01.dsk","orch-u01",161280
+60,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-v01.dsk","Orchestra Songs Collection","orch-v01.dsk","orch-v01",161280
+61,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-v02.dsk","Orchestra Songs Collection","orch-v02.dsk","orch-v02",161280
+62,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-w01.dsk","Orchestra Songs Collection","orch-w01.dsk","orch-w01",161280
+63,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-w02.dsk","Orchestra Songs Collection","orch-w02.dsk","orch-w02",161280
+64,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-w03.dsk","Orchestra Songs Collection","orch-w03.dsk","orch-w03",161280
+65,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-x01.dsk","Orchestra Songs Collection","orch-x01.dsk","orch-x01",161280
+66,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-y01.dsk","Orchestra Songs Collection","orch-y01.dsk","orch-y01",161280
+67,"/media/share1/DW4/DW2SD/CCA/Music/Orchestra Songs Collection/orch-z01.dsk","Orchestra Songs Collection","orch-z01.dsk","orch-z01",161280
+68,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC01.DSK","Self Playing Songs Collection","MUSIC01.DSK","MUSIC01",161280
+69,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC02.DSK","Self Playing Songs Collection","MUSIC02.DSK","MUSIC02",161280
+70,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC03.DSK","Self Playing Songs Collection","MUSIC03.DSK","MUSIC03",161280
+71,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC04.DSK","Self Playing Songs Collection","MUSIC04.DSK","MUSIC04",161280
+72,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC05.DSK","Self Playing Songs Collection","MUSIC05.DSK","MUSIC05",161280
+73,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC06.DSK","Self Playing Songs Collection","MUSIC06.DSK","MUSIC06",161280
+74,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC07.DSK","Self Playing Songs Collection","MUSIC07.DSK","MUSIC07",161280
+75,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC08.DSK","Self Playing Songs Collection","MUSIC08.DSK","MUSIC08",161280
+76,"/media/share1/DW4/DW2SD/CCA/Music/Self Playing Songs Collection/MUSIC09.DSK","Self Playing Songs Collection","MUSIC09.DSK","MUSIC09",161280
+77,"/media/share1/DW4/DW2SD/CCA/Music/Sound & Speech Cartridge Applications (Tandy)/SSCPRG.DSK","Sound & Speech Cartridge Applications (Tandy)","SSCPRG.DSK","SSCPRG",161280
+78,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax Player (Sundog Systems)/SNDPLAY.DSK","SoundTrax Player (Sundog Systems)","SNDPLAY.DSK","SNDPLAY",161280
+79,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/INSTR1A.DSK","SoundTrax (Sundog Systems) (Coco 3)","INSTR1A.DSK","INSTR1A",161280
+80,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/INSTR1B.DSK","SoundTrax (Sundog Systems) (Coco 3)","INSTR1B.DSK","INSTR1B",161280
+81,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/INSTR2A.DSK","SoundTrax (Sundog Systems) (Coco 3)","INSTR2A.DSK","INSTR2A",161280
+82,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/INSTR2B.DSK","SoundTrax (Sundog Systems) (Coco 3)","INSTR2B.DSK","INSTR2B",161280
+83,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/INSTR3A.DSK","SoundTrax (Sundog Systems) (Coco 3)","INSTR3A.DSK","INSTR3A",161280
+84,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/INSTR3B.DSK","SoundTrax (Sundog Systems) (Coco 3)","INSTR3B.DSK","INSTR3B",161280
+85,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/STRAX1.DSK","SoundTrax (Sundog Systems) (Coco 3)","STRAX1.DSK","STRAX1",161280
+86,"/media/share1/DW4/DW2SD/CCA/Music/SoundTrax (Sundog Systems) (Coco 3)/STRAX2.DSK","SoundTrax (Sundog Systems) (Coco 3)","STRAX2.DSK","STRAX2",161280
+87,"/media/share1/DW4/DW2SD/CCA/Music/Speech-Sound Cartridge Sample Programs (Tandy)/SSC.dsk","Speech-Sound Cartridge Sample Programs (Tandy)","SSC.dsk","SSC",161280
+88,"/media/share1/DW4/DW2SD/CCA/Music/Super Sound (J.D. Walker) (Coco 3)/supersnd.dsk","Super Sound (J.D. Walker) (Coco 3)","supersnd.dsk","supersnd",161280
+89,"/media/share1/DW4/DW2SD/CCA/Music/Symphony XII v1.1 (Del Software & Speech Systems)/SYMPHONY.DSK","Symphony XII v1.1 (Del Software & Speech Systems)","SYMPHONY.DSK","SYMPHONY",161280
+90,"/media/share1/DW4/DW2SD/CCA/Music/Synther-77 (Computerware)/SYNTHR77.DSK","Synther-77 (Computerware)","SYNTHR77.DSK","SYNTHR77",161280
+91,"/media/share1/DW4/DW2SD/CCA/Music/Synther-7 (Computerware)/SYNTHER7.DSK","Synther-7 (Computerware)","SYNTHER7.DSK","SYNTHER7",161280
+92,"/media/share1/DW4/DW2SD/CCA/Music/Vocal Freedom (Dr Preble's Software)/VOCALFRE.DSK","Vocal Freedom (Dr Preble's Software)","VOCALFRE.DSK","VOCALFRE",161280
+93,"/media/share1/DW4/DW2SD/CCA/Pictures/Great American Picture Show (Fred Furtado)/SHOW.DSK","Great American Picture Show (Fred Furtado)","SHOW.DSK","SHOW",161280
+94,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/1000coco.dsk","Ron Delvaux's Pictures Collection (Coco 3)","1000coco.dsk","1000coco",161280
+95,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/1150.dsk","Ron Delvaux's Pictures Collection (Coco 3)","1150.dsk","1150",161280
+96,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/11ast.dsk","Ron Delvaux's Pictures Collection (Coco 3)","11ast.dsk","11ast",161280
+97,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/12019bm.dsk","Ron Delvaux's Pictures Collection (Coco 3)","12019bm.dsk","12019bm",161280
+98,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/1967ch.dsk","Ron Delvaux's Pictures Collection (Coco 3)","1967ch.dsk","1967ch",161280
+99,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/2001.dsk","Ron Delvaux's Pictures Collection (Coco 3)","2001.dsk","2001",161280
+100,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/200front.dsk","Ron Delvaux's Pictures Collection (Coco 3)","200front.dsk","200front",161280
+101,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/2014ec.dsk","Ron Delvaux's Pictures Collection (Coco 3)","2014ec.dsk","2014ec",161280
+102,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/28thccf1.dsk","Ron Delvaux's Pictures Collection (Coco 3)","28thccf1.dsk","28thccf1",161280
+103,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/28THCCF.DSK","Ron Delvaux's Pictures Collection (Coco 3)","28THCCF.DSK","28THCCF",161280
+104,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/3cocos.dsk","Ron Delvaux's Pictures Collection (Coco 3)","3cocos.dsk","3cocos",161280
+105,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/426hemi.dsk","Ron Delvaux's Pictures Collection (Coco 3)","426hemi.dsk","426hemi",161280
+106,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/4indyn.dsk","Ron Delvaux's Pictures Collection (Coco 3)","4indyn.dsk","4indyn",161280
+107,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/4p.dsk","Ron Delvaux's Pictures Collection (Coco 3)","4p.dsk","4p",161280
+108,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/4peaks.dsk","Ron Delvaux's Pictures Collection (Coco 3)","4peaks.dsk","4peaks",161280
+109,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/67ela.dsk","Ron Delvaux's Pictures Collection (Coco 3)","67ela.dsk","67ela",161280
+110,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/68cgr.dsk","Ron Delvaux's Pictures Collection (Coco 3)","68cgr.dsk","68cgr",161280
+111,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/73CH.DSK","Ron Delvaux's Pictures Collection (Coco 3)","73CH.DSK","73CH",161280
+112,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/a11patch.dsk","Ron Delvaux's Pictures Collection (Coco 3)","a11patch.dsk","a11patch",161280
+113,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/a.dsk","Ron Delvaux's Pictures Collection (Coco 3)","a.dsk","a",161280
+114,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/alien.dsk","Ron Delvaux's Pictures Collection (Coco 3)","alien.dsk","alien",161280
+115,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/amy.dsk","Ron Delvaux's Pictures Collection (Coco 3)","amy.dsk","amy",161280
+116,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/and13116.dsk","Ron Delvaux's Pictures Collection (Coco 3)","and13116.dsk","and13116",161280
+117,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/and.dsk","Ron Delvaux's Pictures Collection (Coco 3)","and.dsk","and",161280
+118,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/apollocs.dsk","Ron Delvaux's Pictures Collection (Coco 3)","apollocs.dsk","apollocs",161280
+119,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/apollox.dsk","Ron Delvaux's Pictures Collection (Coco 3)","apollox.dsk","apollox",161280
+120,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ast1.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ast1.dsk","ast1",161280
+121,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ast.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ast.dsk","ast",161280
+122,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/av120.dsk","Ron Delvaux's Pictures Collection (Coco 3)","av120.dsk","av120",161280
+123,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/BEATLES1.DSK","Ron Delvaux's Pictures Collection (Coco 3)","BEATLES1.DSK","BEATLES1",161280
+124,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/beatlesa.dsk","Ron Delvaux's Pictures Collection (Coco 3)","beatlesa.dsk","beatlesa",161280
+125,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/bmoon19.dsk","Ron Delvaux's Pictures Collection (Coco 3)","bmoon19.dsk","bmoon19",161280
+126,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/bobxmas.dsk","Ron Delvaux's Pictures Collection (Coco 3)","bobxmas.dsk","bobxmas",161280
+127,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/boston1.dsk","Ron Delvaux's Pictures Collection (Coco 3)","boston1.dsk","boston1",161280
+128,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/boston.dsk","Ron Delvaux's Pictures Collection (Coco 3)","boston.dsk","boston",161280
+129,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/brandy.dsk","Ron Delvaux's Pictures Collection (Coco 3)","brandy.dsk","brandy",161280
+130,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/britt.dsk","Ron Delvaux's Pictures Collection (Coco 3)","britt.dsk","britt",161280
+131,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/brkngns.dsk","Ron Delvaux's Pictures Collection (Coco 3)","brkngns.dsk","brkngns",161280
+132,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/BUZZ.DSK","Ron Delvaux's Pictures Collection (Coco 3)","BUZZ.DSK","BUZZ",161280
+133,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/bwbeat.dsk","Ron Delvaux's Pictures Collection (Coco 3)","bwbeat.dsk","bwbeat",161280
+134,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cart.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cart.dsk","cart",161280
+135,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cc3bmp.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cc3bmp.dsk","cc3bmp",161280
+136,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cc3box.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cc3box.dsk","cc3box",161280
+137,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cc3s.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cc3s.dsk","cc3s",161280
+138,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cc.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cc.dsk","cc",161280
+139,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ccfest28.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ccfest28.dsk","ccfest28",161280
+140,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ccr.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ccr.dsk","ccr",161280
+141,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cctkadd.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cctkadd.dsk","cctkadd",161280
+142,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cctknew.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cctknew.dsk","cctknew",161280
+143,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cctos.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cctos.dsk","cctos",161280
+144,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/c.dsk","Ron Delvaux's Pictures Collection (Coco 3)","c.dsk","c",161280
+145,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/chall.dsk","Ron Delvaux's Pictures Collection (Coco 3)","chall.dsk","chall",161280
+146,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/charger.dsk","Ron Delvaux's Pictures Collection (Coco 3)","charger.dsk","charger",161280
+147,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/chestb.dsk","Ron Delvaux's Pictures Collection (Coco 3)","chestb.dsk","chestb",161280
+148,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/chgr.dsk","Ron Delvaux's Pictures Collection (Coco 3)","chgr.dsk","chgr",161280
+149,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/christ.dsk","Ron Delvaux's Pictures Collection (Coco 3)","christ.dsk","christ",161280
+150,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/chry200.dsk","Ron Delvaux's Pictures Collection (Coco 3)","chry200.dsk","chry200",161280
+151,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/clipper.dsk","Ron Delvaux's Pictures Collection (Coco 3)","clipper.dsk","clipper",161280
+152,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/COCO1.dsk","Ron Delvaux's Pictures Collection (Coco 3)","COCO1.dsk","COCO1",161280
+153,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/coco40th.dsk","Ron Delvaux's Pictures Collection (Coco 3)","coco40th.dsk","coco40th",161280
+154,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/coco99.dsk","Ron Delvaux's Pictures Collection (Coco 3)","coco99.dsk","coco99",161280
+155,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocoad.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocoad.dsk","cocoad",161280
+156,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocofb.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocofb.dsk","cocofb",161280
+157,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocofe.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocofe.dsk","cocofe",161280
+158,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/COCOPI.DSK","Ron Delvaux's Pictures Collection (Coco 3)","COCOPI.DSK","COCOPI",161280
+159,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocoplus.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocoplus.dsk","cocoplus",161280
+160,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocoshow.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocoshow.dsk","cocoshow",161280
+161,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocotk.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocotk.dsk","cocotk",161280
+162,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocotv.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocotv.dsk","cocotv",161280
+163,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocouni.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocouni.dsk","cocouni",161280
+164,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cocowat.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cocowat.dsk","cocowat",161280
+165,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/COLLTRS.DSK","Ron Delvaux's Pictures Collection (Coco 3)","COLLTRS.DSK","COLLTRS",161280
+166,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/commono.dsk","Ron Delvaux's Pictures Collection (Coco 3)","commono.dsk","commono",161280
+167,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cop.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cop.dsk","cop",161280
+168,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/cover.dsk","Ron Delvaux's Pictures Collection (Coco 3)","cover.dsk","cover",161280
+169,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/creed.dsk","Ron Delvaux's Pictures Collection (Coco 3)","creed.dsk","creed",161280
+170,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/csmyc.dsk","Ron Delvaux's Pictures Collection (Coco 3)","csmyc.dsk","csmyc",161280
+171,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/curtis.dsk","Ron Delvaux's Pictures Collection (Coco 3)","curtis.dsk","curtis",161280
+172,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/darksky.dsk","Ron Delvaux's Pictures Collection (Coco 3)","darksky.dsk","darksky",161280
+173,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/DELO.DSK","Ron Delvaux's Pictures Collection (Coco 3)","DELO.DSK","DELO",161280
+174,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/DEMON.DSK","Ron Delvaux's Pictures Collection (Coco 3)","DEMON.DSK","DEMON",161280
+175,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/devl-obs.DSK","Ron Delvaux's Pictures Collection (Coco 3)","devl-obs.DSK","devl-obs",161280
+176,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/DIRTYH.DSK","Ron Delvaux's Pictures Collection (Coco 3)","DIRTYH.DSK","DIRTYH",161280
+177,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/dklord.dsk","Ron Delvaux's Pictures Collection (Coco 3)","dklord.dsk","dklord",161280
+178,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/dodge.dsk","Ron Delvaux's Pictures Collection (Coco 3)","dodge.dsk","dodge",161280
+179,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/DODGES.DSK","Ron Delvaux's Pictures Collection (Coco 3)","DODGES.DSK","DODGES",161280
+180,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/doobs.dsk","Ron Delvaux's Pictures Collection (Coco 3)","doobs.dsk","doobs",161280
+181,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/dosct.dsk","Ron Delvaux's Pictures Collection (Coco 3)","dosct.dsk","dosct",161280
+182,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/dragon1.dsk","Ron Delvaux's Pictures Collection (Coco 3)","dragon1.dsk","dragon1",161280
+183,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/dragon2.dsk","Ron Delvaux's Pictures Collection (Coco 3)","dragon2.dsk","dragon2",161280
+184,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/DRAGON.DSK","Ron Delvaux's Pictures Collection (Coco 3)","DRAGON.DSK","DRAGON",161280
+185,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/dukes.dsk","Ron Delvaux's Pictures Collection (Coco 3)","dukes.dsk","dukes",161280
+186,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ec.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ec.dsk","ec",161280
+187,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/eclipse.dsk","Ron Delvaux's Pictures Collection (Coco 3)","eclipse.dsk","eclipse",161280
+188,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/elo.dsk","Ron Delvaux's Pictures Collection (Coco 3)","elo.dsk","elo",161280
+189,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ent.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ent.dsk","ent",161280
+190,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/erd.dsk","Ron Delvaux's Pictures Collection (Coco 3)","erd.dsk","erd",161280
+191,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/faceb.dsk","Ron Delvaux's Pictures Collection (Coco 3)","faceb.dsk","faceb",161280
+192,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/fed.dsk","Ron Delvaux's Pictures Collection (Coco 3)","fed.dsk","fed",161280
+193,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/FIST.DSK","Ron Delvaux's Pictures Collection (Coco 3)","FIST.DSK","FIST",161280
+194,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/FLAG.DSK","Ron Delvaux's Pictures Collection (Coco 3)","FLAG.DSK","FLAG",161280
+195,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/FLOR.DSK","Ron Delvaux's Pictures Collection (Coco 3)","FLOR.DSK","FLOR",161280
+196,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/fox10.dsk","Ron Delvaux's Pictures Collection (Coco 3)","fox10.dsk","fox10",161280
+197,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/fstones.dsk","Ron Delvaux's Pictures Collection (Coco 3)","fstones.dsk","fstones",161280
+198,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/GETSM.DSK","Ron Delvaux's Pictures Collection (Coco 3)","GETSM.DSK","GETSM",161280
+199,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/Gimex.dsk","Ron Delvaux's Pictures Collection (Coco 3)","Gimex.dsk","Gimex",161280
+200,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/gimexx.dsk","Ron Delvaux's Pictures Collection (Coco 3)","gimexx.dsk","gimexx",161280
+201,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/HA.DSK","Ron Delvaux's Pictures Collection (Coco 3)","HA.DSK","HA",161280
+202,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/hal.dsk","Ron Delvaux's Pictures Collection (Coco 3)","hal.dsk","hal",161280
+203,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/HB.DSK","Ron Delvaux's Pictures Collection (Coco 3)","HB.DSK","HB",161280
+204,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/HEMI.DSK","Ron Delvaux's Pictures Collection (Coco 3)","HEMI.DSK","HEMI",161280
+205,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/heston.dsk","Ron Delvaux's Pictures Collection (Coco 3)","heston.dsk","heston",161280
+206,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/hh.dsk","Ron Delvaux's Pictures Collection (Coco 3)","hh.dsk","hh",161280
+207,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/hhead.dsk","Ron Delvaux's Pictures Collection (Coco 3)","hhead.dsk","hhead",161280
+208,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/Hicolor.dsk","Ron Delvaux's Pictures Collection (Coco 3)","Hicolor.dsk","Hicolor",161280
+209,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/home.dsk","Ron Delvaux's Pictures Collection (Coco 3)","home.dsk","home",161280
+210,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/hpyeast.dsk","Ron Delvaux's Pictures Collection (Coco 3)","hpyeast.dsk","hpyeast",161280
+211,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/hpyny.dsk","Ron Delvaux's Pictures Collection (Coco 3)","hpyny.dsk","hpyny",161280
+212,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/journey.dsk","Ron Delvaux's Pictures Collection (Coco 3)","journey.dsk","journey",161280
+213,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/jup619.dsk","Ron Delvaux's Pictures Collection (Coco 3)","jup619.dsk","jup619",161280
+214,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/Juphub.dsk","Ron Delvaux's Pictures Collection (Coco 3)","Juphub.dsk","Juphub",161280
+215,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/killy.dsk","Ron Delvaux's Pictures Collection (Coco 3)","killy.dsk","killy",161280
+216,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/landh.dsk","Ron Delvaux's Pictures Collection (Coco 3)","landh.dsk","landh",161280
+217,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/lion.dsk","Ron Delvaux's Pictures Collection (Coco 3)","lion.dsk","lion",161280
+218,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/lm.dsk","Ron Delvaux's Pictures Collection (Coco 3)","lm.dsk","lm",161280
+219,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/lrover1.dsk","Ron Delvaux's Pictures Collection (Coco 3)","lrover1.dsk","lrover1",161280
+220,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/lrover.dsk","Ron Delvaux's Pictures Collection (Coco 3)","lrover.dsk","lrover",161280
+221,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/lx200.dsk","Ron Delvaux's Pictures Collection (Coco 3)","lx200.dsk","lx200",161280
+222,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/m33.dsk","Ron Delvaux's Pictures Collection (Coco 3)","m33.dsk","m33",161280
+223,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/M42.DSK","Ron Delvaux's Pictures Collection (Coco 3)","M42.DSK","M42",161280
+224,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/m62118.dsk","Ron Delvaux's Pictures Collection (Coco 3)","m62118.dsk","m62118",161280
+225,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/MAG.DSK","Ron Delvaux's Pictures Collection (Coco 3)","MAG.DSK","MAG",161280
+226,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mars727.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mars727.dsk","mars727",161280
+227,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/Mars.dsk","Ron Delvaux's Pictures Collection (Coco 3)","Mars.dsk","Mars",161280
+228,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/maxhr.dsk","Ron Delvaux's Pictures Collection (Coco 3)","maxhr.dsk","maxhr",161280
+229,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/MC10.DSK","Ron Delvaux's Pictures Collection (Coco 3)","MC10.DSK","MC10",161280
+230,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mech.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mech.dsk","mech",161280
+231,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/me.dsk","Ron Delvaux's Pictures Collection (Coco 3)","me.dsk","me",161280
+232,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/MEEP.DSK","Ron Delvaux's Pictures Collection (Coco 3)","MEEP.DSK","MEEP",161280
+233,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mesktch.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mesktch.dsk","mesktch",161280
+234,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/meteor.dsk","Ron Delvaux's Pictures Collection (Coco 3)","meteor.dsk","meteor",161280
+235,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/milhon.dsk","Ron Delvaux's Pictures Collection (Coco 3)","milhon.dsk","milhon",161280
+236,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mk11.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mk11.dsk","mk11",161280
+237,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/MM1.DSK","Ron Delvaux's Pictures Collection (Coco 3)","MM1.DSK","MM1",161280
+238,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mobord.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mobord.dsk","mobord",161280
+239,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/MOD1.DSK","Ron Delvaux's Pictures Collection (Coco 3)","MOD1.DSK","MOD1",161280
+240,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/MOMSDAY.DSK","Ron Delvaux's Pictures Collection (Coco 3)","MOMSDAY.DSK","MOMSDAY",161280
+241,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mona.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mona.dsk","mona",161280
+242,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/moon4918.dsk","Ron Delvaux's Pictures Collection (Coco 3)","moon4918.dsk","moon4918",161280
+243,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/moon513.dsk","Ron Delvaux's Pictures Collection (Coco 3)","moon513.dsk","moon513",161280
+244,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/moonc.dsk","Ron Delvaux's Pictures Collection (Coco 3)","moonc.dsk","moonc",161280
+245,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mopar.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mopar.dsk","mopar",161280
+246,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mopars.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mopars.dsk","mopars",161280
+247,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mopump.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mopump.dsk","mopump",161280
+248,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/mychar.dsk","Ron Delvaux's Pictures Collection (Coco 3)","mychar.dsk","mychar",161280
+249,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/myjup.dsk","Ron Delvaux's Pictures Collection (Coco 3)","myjup.dsk","myjup",161280
+250,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/n09.dsk","Ron Delvaux's Pictures Collection (Coco 3)","n09.dsk","n09",161280
+251,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/natalie.dsk","Ron Delvaux's Pictures Collection (Coco 3)","natalie.dsk","natalie",161280
+252,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/nchargr.dsk","Ron Delvaux's Pictures Collection (Coco 3)","nchargr.dsk","nchargr",161280
+253,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/neilb.dsk","Ron Delvaux's Pictures Collection (Coco 3)","neilb.dsk","neilb",161280
+254,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/netmate.dsk","Ron Delvaux's Pictures Collection (Coco 3)","netmate.dsk","netmate",161280
+255,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/newrb.dsk","Ron Delvaux's Pictures Collection (Coco 3)","newrb.dsk","newrb",161280
+256,"/media/share1/DW4/DW2SD/CCA/Pictures/Ron Delvaux's Pictures Collection (Coco 3)/ninja.dsk","Ron Delvaux's Pictures Collection (Coco 3)","ninja.dsk","ninja",161280
