@@ -36,7 +36,7 @@ The first step to is generate an index file of DSK images you wish to copy.  The
 http://www.colorcomputerarchive.com/coco/Disks/
 
 
-Once the index files are generated, you copy those and the DW2HD*.BAS programs to a DSK image you load on the Coco.  I wrote the DW2SD.BAS program to work with 80 column mode, so it's a Coco 3 only thing for now.  It could be modified for 32 column or even 64 column mode if using a CoCoVGA adapter on a Coco 1 or 2.  More information about the CoCoVGA can be found here:
+Once the index files are generated, you copy those and the DW2HD*.BAS programs to a DSK image you load on the Coco.  I wrote the DW2HD80.BAS program to work with 80 column mode, so it's a Coco 3 only thing for now.  It could be modified for 32 column or even 64 column mode if using a CoCoVGA adapter on a Coco 1 or 2.  More information about the CoCoVGA can be found here:
 
 http://www.cocovga.com/
 
